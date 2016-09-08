@@ -17,11 +17,10 @@
 
 body {
   background-color: #f2f2f2;
-    font-family: 'EB Garamond', serif;
+    font-family: 'Raleway', sans-serif;
     font-weight: 300;
     font-size: 16px;
-    color: #555;
-
+    color: #f2f2f2;
     -webkit-font-smoothing: antialiased;
     -webkit-overflow-scrolling: touch;
 }
@@ -142,6 +141,7 @@ a:after {
 	color: white;
 	font-size: 28px;
 	font-weight: 700;
+	font-family: 'Raleway', sans-serif;
 	letter-spacing: 1px;	
 }
 
@@ -177,6 +177,9 @@ a:after {
 	right: 0px;
 }
 
+.menu.blog-menu-open {
+	right: 100px;	
+}
 .menu-wrap {
 	position: absolute;
 	top: 0;
@@ -184,6 +187,10 @@ a:after {
 	background: #1a1a1a;
 	width: 200px;
 	height: 100%;
+}
+
+.blog-menu-wrap {
+	width: 300px !important;
 }
 
 .menu h1.logo a {
@@ -326,4 +333,24 @@ a:after {
 	padding: 3px;
 }
 
+.post h1 {
+	color: #f2f2f2;
+}
+
+.post-content {
+	margin: 65px auto;
+	min-width: 60%;
+	max-width: 65%;
+	text-align: left;	
+}
+
+.post-content p {
+	font-size: 24px !important;
+	line-height: 36px;
+}
+
+.blog-header {
+	background: url(../img/blog-header.jpg) no-repeat center top !important;	
+	min-height: 550px !important;
+}
 
