@@ -1,0 +1,96 @@
+---
+layout: default
+---
+
+<!-- ========== ABOUT SECTION ========== -->
+<section id="about" name="about"></section>
+<div id="f">
+  <div class="container">
+    <div class="row">
+      <h3>ABOUT ME</h3>
+      <p class="centered"><i class="icon icon-circle"></i><i class="icon icon-circle"></i><i class="icon icon-circle"></i></p>
+
+      <!-- INTRO INFORMATIO-->
+      <div class="col-lg-6 col-lg-offset-3">
+        <img src="assets/img/me-small-B&W.jpg" id="profile-img" alt="Simun Strukan">
+        <p class="text-left">I'm a software developer, engineer, martial artist... From Zagreb. At the moment I make my living as a software developer / architect at this small, awsome, company <a href="http://www.manifest-media.co.uk"> Manifest media ltd.</a> As a part of the Manifest team, my focus is on iOs and Web development, and various cross platfrom API's.</p>
+        <p class="text-left">Over the years I've included myself in various projects. In addition to my degree in Mechanical Engineering, I'm a recored musican and been dedicated martial artist for almost 10 years. I'm in constant search for new things to do, learn and expirience.</p>
+        <p class="text-left">If you need more detailed information, there is my Cirulum Vitae available for download, or contact me directly.</p>
+        <p><a class="btn btn-warning" href="CV.pdf" target="_blank">CIRCULUM VITAE</a></p>
+      </div>
+    </div>
+  </div><!-- /container -->
+</div><!-- /f -->
+
+
+<!-- ========== CAROUSEL SECTION ========== -->
+<section id="portfolio" name="portfolio"></section>
+<div id="f">
+  <div class="container">
+    <div class="row centered">
+      <h3>SOME PROJECTS</h3>
+      <p class="centered"><i class="icon icon-circle"></i><i class="icon icon-circle"></i><i class="icon icon-circle"></i></p>
+
+      <div class="col-lg-6 col-lg-offset-3">
+        <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+          <!-- Wrapper for slides -->
+          <div class="carousel-inner">
+            <div class="item active centered">
+              <img class="img-responsive" src="assets/img/slika1.png" alt="">
+            </div>
+            <div class="item centered">
+              <img class="img-responsive" src="assets/img/slika2.png" alt="">
+            </div>
+            <div class="item centered">
+              <img class="img-responsive" src="assets/img/slika3.png" alt="">
+            </div>
+          </div>
+          <br>
+          <br>
+          <ol class="carousel-indicators">
+            <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+          </ol>
+        </div>
+      </div><!-- col-lg-8 -->
+    </div><!-- row -->
+  </div><!-- container -->
+</div>	<!-- f -->
+
+<!-- ========== BLOG SECTION ========== -->
+<section id="contact" name="blog"></section>
+<div id="f">
+  <div class="container">
+    <div class="row">
+      <h3>BLOG</h3>
+      <p class="centered"><i class="icon icon-circle"></i><i class="icon icon-circle"></i><i class="icon icon-circle"></i></p>
+      {% for post in site.posts limit:1 %}
+      <header class="post-header">
+        <h1 style="color: white;">{{ post.title }}</h1>
+        <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}</p>
+        <img src="assets/img/ornament.png">
+      </header>
+      <br />
+      <p><a class="btn btn-warning" href="{{ post.url }}">READ MORE</a></p>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<!-- ========== CONTACT SECTION ========== -->
+<section id="contact" name="contact"></section>
+<div id="f">
+  <div class="container">
+    <div class="row">
+      <h3>CONTACT ME</h3>
+      <p class="centered"><i class="icon icon-circle"></i><i class="icon icon-circle"></i><i class="icon icon-circle"></i></p>
+
+      <div class="col-lg-6 col-lg-offset-3">
+        <p>Trpanjska 14<br/>Zagreb, Hrvatska(Croatia)<br/>+385 98 162 43 39</p>
+        <p>simun.strukan@gmail.com <br /> simun@manifestmedia.uk</p>
+        <p><a href="mailto:simun.strukan@gmail.com" class="btn btn-warning">CONTACT ME NOW!</a></p>
+      </div>
+    </div>
+  </div>
+</div>
