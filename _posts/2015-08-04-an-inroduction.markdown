@@ -1,6 +1,6 @@
 ---
 layout: blog
-title:  "An Introduction"
+title:  "An Introduction: What the hell do I know?"
 date:   2015-08-04 20:00:00
 categories: general
 author: Simun Strukan
