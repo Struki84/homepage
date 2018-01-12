@@ -315,8 +315,7 @@ a:after {
 #profile-img {
 	width: 214px;
 	border: 4px solid white;
-	float: left;
-	margin-right: 20px;
+	margin: 0 auto;
 	padding: 3px;
 }
 
