@@ -111,6 +111,10 @@ a:after {
 	margin-top: 15px;
 }
 
+#headerwrap .row {
+	margin-left: 20px;
+}
+
 /* Footer Wrap */
 
 #f {
