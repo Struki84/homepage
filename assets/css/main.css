@@ -111,7 +111,6 @@ a:after {
 	margin-top: 15px;
 }
 
-
 /* Footer Wrap */
 
 #f {
@@ -319,6 +318,10 @@ a:after {
 
 .post h1 {
 	color: #f2f2f2;
+}
+
+.post img {
+	max-width: 100%;
 }
 
 .post-content {
