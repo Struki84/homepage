@@ -320,7 +320,7 @@ a:after {
 	color: #f2f2f2;
 }
 
-.post img {
+.post-header img {
 	max-width: 100%;
 }
 
@@ -340,4 +340,6 @@ a:after {
 	background: url(../img/blog-header.jpg) no-repeat center top !important;	
 	min-height: 550px !important;
 }
+
+
 
