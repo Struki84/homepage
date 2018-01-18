@@ -344,5 +344,9 @@ a:after {
 	min-height: 550px !important;
 }
 
+.resume-header {
+	background: url(../img/resume-header.jpg) no-repeat center top !important;	
+	min-height: 550px !important;
+}
 
 
