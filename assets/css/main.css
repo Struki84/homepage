@@ -346,6 +346,7 @@ a:after {
 
 .resume-header {
 	background: url(../img/resume-header.png) no-repeat center top !important;	
+	background-size: cover !important;
 	min-height: 550px !important;
 }
 
