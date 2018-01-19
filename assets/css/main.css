@@ -354,4 +354,12 @@ a:after {
 	color: #f85c37;
 }
 
+.skills ul {
+	list-style: none;
+}
+
+.skills ul li {
+	text-align: left;
+}
+
 
