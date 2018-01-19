@@ -358,6 +358,10 @@ a:after {
 	list-style: none;
 }
 
+.skills ul li {
+	text-align: left;
+}
+
 .lng-title {
 	margin-right: 30px;
 }
