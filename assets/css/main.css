@@ -366,3 +366,7 @@ a:after {
 .lng-title {
 	margin-right: 30px;
 }
+
+.skill-lvl-container {
+	float: right;
+}
