@@ -10,9 +10,16 @@
     <img src="/assets/img/ornament.png">
   </header>
 
-  <article class="post-content">
-    {{ content }}
-  </article>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-6 col-lg-offset-3">
+        <article>
+          {{ content }}
+        </article>
+      </div>
+    </div>
+  </div>
+  
 </div>
 
 {% include footer.html %}
