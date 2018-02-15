@@ -71,4 +71,4 @@ Keep in mind that you don’t need to be a genius to invent. Pure knowing and be
 
 Most of all, remind yourself that creativity is NOT a talent. Not a thing you are born with. It is a way of operating, and you can achieve this _modus operandi_ fairly simple. For that purpose I leave the deck and give my spotlight to the minister of funny walks himself. I hope he will convince you, we all can be creative and it is in the core of what it means to be human.
 
-[![creativity](https://img.youtube.com/vi/Pb5oIIPO62g&t/0.jpg)](https://www.youtube.com/watch?v=Pb5oIIPO62g){:class="post-videolink"}
+[![creativity](youtube-img.png](https://www.youtube.com/watch?v=Pb5oIIPO62g){:class="post-videolink"}

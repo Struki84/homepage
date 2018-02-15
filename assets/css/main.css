@@ -357,8 +357,8 @@ a:after {
 } 
 
 .post-videolink img {
-	max-width: 640px;
-	min-height: 420px;
+	max-width: 854px;
+	min-height: 480px;
 	margin: 50px auto;
 	display: block;
 }
