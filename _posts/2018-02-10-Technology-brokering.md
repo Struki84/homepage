@@ -22,7 +22,7 @@ Most of the information on the subject is pretty abstract. You get vague descrip
 
 ## How to do it.
 
-![how-to-do-it](/assets/img/posts/img-2.jpg){:class="post-img"}
+![how-to-do-it](/assets/img/posts/img-2.jpeg){:class="post-img"}
 
 There are many ways you can become a tech broker. You can introduce it to a department inside your existing company. You can build an entire business on it. Or you can just meet up with different interesting people every week, and with some moderation, you can use this creative force to tech broke the shit out of every problem. But no matter what form it takes, there are some basic principles that need to be respected.
 
@@ -66,3 +66,5 @@ Rotate your engineers and designers. There is a great benefit in switching peopl
 Keep in mind that you don’t need to be a genius to invent. Pure knowing and being familiar with previous achievements and innovations is more than enough to improve. Together with people who are eager to learn, only sky is the limit. But given contemporary advancements it seems we are about to brake that limit as well.
 
 Most of all, remind yourself that creativity is NOT a talent. Not a thing you are born with. It is a way of operating, and you can achieve this modus operandi fairly simple. For that purpose I leave the deck and give my spotlight to the minister of funny walks himself. I hope he will convince you, we all can be creative and it is in the core of what it means to be human.
+
+[![creativity](https://img.youtube.com/vi/Pb5oIIPO62g&t/0.jpg)](https://www.youtube.com/watch?v=Pb5oIIPO62g&t)]
