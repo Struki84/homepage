@@ -10,7 +10,11 @@ _Technology brokering. It's called technology brokering._
 
 It has nothing to do with stock exchange, for starters. The second comment you get when mentioning Technology Brokering is, “That’s something in IT, right?”. It’s a good chance you came across this article because someone answered “Just google it…” , and if that’s the case you might have just read the top-hit-wikipedia article. You have an idea but have no clue how it works in a real company. In fact, when it comes to real companies, there isn’t as many of them as you would think there are. The most familiar companies when talking about tech brokering, are IDEO, and T. Edison’s company Menlo Park which was founded way back in the 19th century. So, not so much an IT thing. 
 
+<p class="centered"><i class="icon icon-circle"></i><i class="icon icon-circle"></i><i class="icon icon-circle"></i></p>
+
 ## Creativity run amok!
+
+![creativity-run-amok!](assets/img/posts/img-1.png){:class="post-img"}
 
 The irony is, we’ve all done it. Even when you were a kid, each time you said -  “You know what would be fun to have…?” -  you were technology brokering. To put it in the simplest terms,tech brokering is like brainstorming but with some structure. (mislim da nije jasno što si želio reći, kasnije ponovno spominješ strukturu brainstormanja, pa ti je dolje još jedna napomena). You take a group of people from different backgrounds and you let them discuss whatever they want to discuss. The key ingredient is diversity. You take segments  (mislim da bi trebao dati primjer za neki od tih segmenata, jer je vrlo općenito, a ja kao random čitatelj zaista nemam pojma na što misliš) of unrelated industries, or science fields, or a group of artists and you mix them together with some engineers or programmers, and see what will come out of it.
 
@@ -50,6 +54,8 @@ In order for a brainstorming session to be successful, as mentioned, structure( 
 
 Now you repeat the process. There is no magic trick about it, the idea is to keep brainstorming, and with repetion, you will get better and better. Couple of things to keep in mind…
 Rotate your engineers and designers. There is a great benefit in switching people from area to area. Firstly they will gather necessary diversity to have quality input in meetings. Secondly, it prevents "burn outs" of individuals due to person being on the same project for to long. It is good practice to switch between long term and short term projects. If creative people don't create, soon they will become unsatisfied, so focus on short iterations and early prototypes. Test viable concepts often, and you will get a constructive routine break, as well as valuable feedback in the process.
+
+## Last but not least
 
 > I invented nothing new. I simply assembled into a car the discoveries of other men behind whom were centuries of work….Had I worked fifty or ten or even five years before, I would have failed. So it is with every new thing. Progress happens when all the factors that make for it are ready, and then it is inevitable. To teach that a comparatively few men are  responsible for the greatest forward steps of mankind is the worst sort of nonsense. — H. Ford
 
