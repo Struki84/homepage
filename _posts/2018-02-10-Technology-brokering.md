@@ -28,22 +28,22 @@ Most of the information on the subject is pretty abstract. You get vague descrip
 
 There are many ways you can become a tech broker. You can introduce it to a department inside your existing company. You can build an entire business on it. Or you can just meet up with different interesting people every week, and with some moderation, you can use this creative force to tech broke the shit out of every problem. But no matter what form it takes, there are some basic principles that need to be respected.
 
-#### Principle 1 — Access
+### Principle 1 — Access
 
 Provide your brokers with a variety of information. Give them access to dissimilar, eclectic or new technologies. Give them information on different branches of industries. But most of all, keep track of people's backgrounds and their past experiences. Great ideas come from interesting people with interesting backgrounds, so it is imperative that people involved in the process have rich experience in a variety of seemingly unrelated areas. Once you achieved this level of "colourfulness", and provided a critical mass of information to the group, you will be amazed by the speed at which ideas bounce around, as well as by the gravity of those ideas.
 
-#### Principle 2 — Acquisition
+### Principle 2 — Acquisition
 
 > 1st, study the present construction. 2nd, ask for all past experiences…study and read everything you can on the subject. — T.Edison, personal notes
 
 Learn, learn, learn. If a client approaches you to find a new and innovative solution to a problem, or comes up with a new product, first you need to learn everything you can about the area in which a problem emerges. You need to become an expert in that field. You need to research all the similar products, and learn how they are used or were used in the past. In order to help your client, to learn more about him and what he does, you need to be able to learn with great speed. If you spend enough time analysing the existing products or procedures, most ideas will create themselves. If you take enough time to analyse the subject at hand, soon you will see a sort of an "opening", shaped like the product that needs to be invented.
 
 
-#### Principle 3 — Storage 
+### Principle 3 — Storage 
 
 When talking about storing, it is hard to imagine how you can store creativity or imaginative solutions that work. The most common practice is to store the learned experience in the people that host it. beauty of technology brokering is not inventing totally new products, it is the ability to reimagine or recreate a product while using an old idea/product. This is why it is so important to keep track of people's past experiences since the know-how is stored inside a person's character or memory. Often the ideas that a person bounces around are directly connected to that person's view point of the world or a given subject.
 
-#### Principle 4 — Retrieval
+### Principle 4 — Retrieval
 
 > Retrieval entails bringing stored knowledge of potentially valuable technological solutions to bear on the design problems of current projects. — A. Hargadon & R. Sutton, study of IDEO
 
