@@ -6,11 +6,11 @@ categories: general
 author: Simun Strukan
 ---
 
-_Technology brokering. It's called technology brokering._
 
-It has nothing to do with stock exchange, for starters. The second comment you get when mentioning Technology Brokering is, “That’s something in IT, right?”. It’s a good chance you came across this article because someone answered “Just google it…” , and if that’s the case you might have just read the top-hit-wikipedia article. You have an idea but have no clue how it works in a real company. In fact, when it comes to real companies, there isn’t as many of them as you would think there are. The most familiar companies when talking about tech brokering, are IDEO, and T. Edison’s company Menlo Park which was founded way back in the 19th century. So, not so much an IT thing. 
 
-<p class="centered"><i class="icon icon-circle"></i><i class="icon icon-circle"></i><i class="icon icon-circle"></i></p>
+Technology brokering. It's called technology brokering, it has nothing to do with stock exchange, for starters. The second comment you get when mentioning Technology Brokering is, “That’s something in IT, right?”. It’s a good chance you came across this article because someone answered “Just google it…” , and if that’s the case you might have just read the top-hit-wikipedia article. You have an idea but have no clue how it works in a real company. In fact, when it comes to real companies, there isn’t as many of them as you would think there are. The most familiar companies when talking about tech brokering, are IDEO, and T. Edison’s company Menlo Park which was founded way back in the 19th century. So, not so much an IT thing. 
+
+<p style=" text-align: center !important;"><i class="icon icon-circle"></i><i class="icon icon-circle"></i><i class="icon icon-circle"></i></p>
 
 ## Creativity run amok!
 
@@ -22,7 +22,7 @@ Most of the information on the subject is pretty abstract. You get vague descrip
 
 ## How to do it.
 
-![how-to-do-it](/assets/img/posts/img-2.png){:class="post-img"}
+![how-to-do-it](/assets/img/posts/img-2.jpg){:class="post-img"}
 
 There are many ways you can become a tech broker. You can introduce it to a department inside your existing company. You can build an entire business on it. Or you can just meet up with different interesting people every week, and with some moderation, you can use this creative force to tech broke the shit out of every problem. But no matter what form it takes, there are some basic principles that need to be respected.
 
