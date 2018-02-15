@@ -321,6 +321,7 @@ a:after {
 
 .post h1, h2, h3, h4, h5, h6  {
 	color: #f2f2f2;
+	text-align: left;
 }
 
 .post-header img {
@@ -329,6 +330,15 @@ a:after {
 
 .post-content p {
 	text-align: left;
+}
+
+.post-content blockquote {
+	font-style: italic;
+}
+
+.post-content ul {
+	text-align: left;
+	font-size: 19px;
 }
 
 .blog-header {
