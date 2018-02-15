@@ -22,6 +22,8 @@ Most of the information on the subject is pretty abstract. You get vague descrip
 
 ## How to do it.
 
+![how-to-do-it](/assets/img/posts/img-2.png){:class="post-img"}
+
 There are many ways you can become a tech broker. You can introduce it to a department inside your existing company. You can build an entire business on it. Or you can just meet up with different interesting people every week, and with some moderation, you can use this creative force to tech broke the shit out of every problem. But no matter what form it takes, there are some basic principles that need to be respected.
 
 #### Principle 1 — Access
@@ -56,6 +58,8 @@ Now you repeat the process. There is no magic trick about it, the idea is to kee
 Rotate your engineers and designers. There is a great benefit in switching people from area to area. Firstly they will gather necessary diversity to have quality input in meetings. Secondly, it prevents "burn outs" of individuals due to person being on the same project for to long. It is good practice to switch between long term and short term projects. If creative people don't create, soon they will become unsatisfied, so focus on short iterations and early prototypes. Test viable concepts often, and you will get a constructive routine break, as well as valuable feedback in the process.
 
 ## Last but not least
+
+![last-but-not-least](/assets/img/posts/img-3.png){:class="post-img"}
 
 > I invented nothing new. I simply assembled into a car the discoveries of other men behind whom were centuries of work….Had I worked fifty or ten or even five years before, I would have failed. So it is with every new thing. Progress happens when all the factors that make for it are ready, and then it is inevitable. To teach that a comparatively few men are  responsible for the greatest forward steps of mankind is the worst sort of nonsense. — H. Ford
 
