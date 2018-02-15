@@ -14,7 +14,7 @@ It has nothing to do with stock exchange, for starters. The second comment you g
 
 ## Creativity run amok!
 
-![creativity-run-amok!](assets/img/posts/img-1.png){:class="post-img"}
+![creativity-run-amok!](/assets/img/posts/img-1.png){:class="post-img"}
 
 The irony is, we’ve all done it. Even when you were a kid, each time you said -  “You know what would be fun to have…?” -  you were technology brokering. To put it in the simplest terms,tech brokering is like brainstorming but with some structure. (mislim da nije jasno što si želio reći, kasnije ponovno spominješ strukturu brainstormanja, pa ti je dolje još jedna napomena). You take a group of people from different backgrounds and you let them discuss whatever they want to discuss. The key ingredient is diversity. You take segments  (mislim da bi trebao dati primjer za neki od tih segmenata, jer je vrlo općenito, a ja kao random čitatelj zaista nemam pojma na što misliš) of unrelated industries, or science fields, or a group of artists and you mix them together with some engineers or programmers, and see what will come out of it.
 
