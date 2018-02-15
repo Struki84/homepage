@@ -323,6 +323,10 @@ a:after {
 	color: #f2f2f2;
 }
 
+.post-content h4 {
+	text-align: left;
+} 
+
 .post-header img {
 	max-width: 95%;
 	margin-bottom: 50px;
