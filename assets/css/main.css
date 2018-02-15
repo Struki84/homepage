@@ -319,11 +319,11 @@ a:after {
 	padding: 3px;
 }
 
-.post h1, h2, h3, h4, h5, h6  {
+.blog-post h1, h2, h3, h4, h5, h6  {
 	color: #f2f2f2;
 }
 
-.post h2, h3, h4, h5, h6  {
+.blog-post h2, h3, h4, h5, h6  {
 	text-align: left;
 }
 
