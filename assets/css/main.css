@@ -358,8 +358,7 @@ a:after {
 } 
 
 .post-videolink img {
-	max-width: 854px;
-	min-height: 480px;
+	width: 80%;
 	margin: 50px auto;
 	display: block;
 }
