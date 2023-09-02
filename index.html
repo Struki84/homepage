@@ -12,48 +12,14 @@ layout: default
 
       <div class="col-lg-6 col-lg-offset-3">
         <p class="center clearfix"><img src="assets/img/me-small-B&W.jpg" id="profile-img" alt="Simun Strukan"></p>
-        <p class="text-left">I'm a software developer, engineer, part time musician, and a hobby martial artist from Zagreb.</p> 
-        <p class="text-left">After 10 years in software development, and a Bachelors degree in Mechanical Engineering specialized in CAD product development, I turned my focus more on developing digital products by closing multiple science and engineering disciplines. This idea has taken form in small start up studio called <a href="http://www.sintezis.co" target="_blank">Sintezis.</a>, founded by 4 developers me being one of them. </p>
+        <p class="text-left">My name is Simun Strukan. I'm a mechanical and software engineer who works and lives in Zagreb, Croatia. I used to pretend I was writing a blog, but I'm too lazy to do it, so I've given up.</p>
+        <p class="text-left">I do <a href="https://github.com/Struki84"> write code</a> and occasionally contribute to open-source projects. I also have entrepreneurial experience as the former founder of <a href="http://www.sintezis.co" target="_blank">Sintezis Startup Studio.</a></p>
+        <p class="text-left">To get some more information about me you can <a href="resume.html"> take a look at my resume</a>, <a href="Circulum_Vitae.pdf" target="_blank">download my CV</a>, or follow me on X/Twitter</p>
       </div>
 
     </div>
   </div><!-- /container -->
 </div><!-- /f -->
-
-<section id="cv" name="cv"></section>
-<div id="f">
-  <div class="container">
-    <div class="row">
-      <h3>CIRCULUM VITAE</h3>
-      <div class="col-lg-6 col-lg-offset-3">
-        <p class="centered"><i class="icon icon-circle"></i><i class="icon icon-circle"></i><i class="icon icon-circle"></i></p>
-        <p class="text-left">Over the years I've included myself in various projects, I'm a recored musician, and boxing enthusiast. I have been included in development of various web and mobile projects using multiple programming languages and platforms. I'm in constant search for new things to do, learn and experience.</p> 
-        <p class="text-left">At the moment I'm working full time as a CTO in <a href="http://www.sintezis.co" target="_blank">Sintezis Startup Studio Ltd</a>, where I'm also co-founder. If You need more detailed information about my skils and work experience you can download my <a href="Circulum_Vitae.pdf" target="_blank">CV pdf</a>, or visit my online CV page.</a></p>
-        <p><a class="btn btn-warning" href="resume.html">CIRCULUM VITAE</a> <a class="btn btn-warning" href="Circulum_Vitae.pdf" target="_blank">DOWNLOAD PDF</a></p>
-      </div>
-    </div>
-  </div>
-</div>
-
-<!-- ========== BLOG SECTION ========== -->
-<section id="contact" name="blog"></section>
-<div id="f">
-  <div class="container">
-    <div class="row">
-      <h3>BLOG</h3>
-      <p class="centered"><i class="icon icon-circle"></i><i class="icon icon-circle"></i><i class="icon icon-circle"></i></p>
-      {% for post in site.posts limit:1 %}
-      <header class="post-header">
-        <h1 style="color: white;">{{ post.title }}</h1>
-        <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}</p>
-        <img src="assets/img/ornament.png">
-      </header>
-      <br />
-      <p><a class="btn btn-warning" href="{{ post.url }}">READ MORE</a></p>
-      {% endfor %}
-    </div>
-  </div>
-</div>
 
 <!-- ========== CONTACT SECTION ========== -->
 <section id="contact" name="contact"></section>
@@ -61,12 +27,16 @@ layout: default
   <div class="container">
     <div class="row">
       <h3>CONTACT ME</h3>
+      <img src="assets/img/ornament.png">
       <p class="centered"><i class="icon icon-circle"></i><i class="icon icon-circle"></i><i class="icon icon-circle"></i></p>
-
       <div class="col-lg-6 col-lg-offset-3">
-        <p>Josipa Prikrila 3<br/>Zagreb, Hrvatska(Croatia)<br/>+385 98 162 43 39</p>
-        <p>simun.strukan@gmail.com</p>
-        <p><a href="mailto:simun.strukan@gmail.com" class="btn btn-warning">CONTACT ME NOW!</a></p>
+        <p>Best way to contact me would be via email at <a href="mailto:simun.strukan@gmail.com">simun.strukan@gmail.com</p>, or via x/twitter at <a href="https://twitter.com/dumbuffalo">@dumbuffalo</a></p>
+        <p>You can also try to find me on discord via handle simun.strukan</p>
+
+        <a href="https://twitter.com/Struki84" target="_blank"><i class="icon-twitter"></i></a>
+        <a href="https://www.linkedin.com/profile/view?id=243526630" target="_blank"><i class="icon-linkedin"></i></a>
+        <a href="https://github.com/Struki84" target="_blank"><i class="icon-github-sign"></i></a>
+        <a href="mailto:simun.strukan@gmail.com"><i class="icon-envelope"></i></a>
       </div>
     </div>
   </div>
