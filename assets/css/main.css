@@ -11,8 +11,8 @@
   font-family: 'Oswald';
   font-style: normal;
   font-weight: 700;
-  src: url(http://themes.googleusercontent.com/static/fonts/oswald/v7/HqHm7BVC_nzzTui2lzQTDfY6323mHUZFJMgTvxaG2iE.eot);
-  src: local('Oswald Light'), local('Oswald-Light'), url(http://themes.googleusercontent.com/static/fonts/oswald/v7/HqHm7BVC_nzzTui2lzQTDfY6323mHUZFJMgTvxaG2iE.eot) format('embedded-opentype'), url(http://themes.googleusercontent.com/static/fonts/oswald/v7/HqHm7BVC_nzzTui2lzQTDT8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+  src: url(//themes.googleusercontent.com/static/fonts/oswald/v7/HqHm7BVC_nzzTui2lzQTDfY6323mHUZFJMgTvxaG2iE.eot);
+  src: local('Oswald Light'), local('Oswald-Light'), url(//themes.googleusercontent.com/static/fonts/oswald/v7/HqHm7BVC_nzzTui2lzQTDfY6323mHUZFJMgTvxaG2iE.eot) format('embedded-opentype'), url(//themes.googleusercontent.com/static/fonts/oswald/v7/HqHm7BVC_nzzTui2lzQTDT8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
 }
 
 body {
@@ -23,6 +23,7 @@ body {
     color: #f2f2f2;
     -webkit-font-smoothing: antialiased;
     -webkit-overflow-scrolling: touch;
+	overflow-x: hidden;
 }
 
 /* Titles */
@@ -86,7 +87,7 @@ a:after {
    ========================================================================== */
 
 #headerwrap {
-	background: url(../img/header-bg-old.jpg) no-repeat center top;
+	background: url(../img/blog-header.jpg) no-repeat center top;
 	background-size: cover;
 }
 
